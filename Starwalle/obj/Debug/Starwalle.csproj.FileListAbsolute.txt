@@ -1,0 +1,10 @@
+C:\Users\mitch\source\repos\Starwalle\Starwalle\bin\Debug\Starwalle.exe.config
+C:\Users\mitch\source\repos\Starwalle\Starwalle\bin\Debug\Starwalle.exe
+C:\Users\mitch\source\repos\Starwalle\Starwalle\bin\Debug\Starwalle.pdb
+C:\Users\mitch\source\repos\Starwalle\Starwalle\obj\Debug\Starwalle.csprojResolveAssemblyReference.cache
+C:\Users\mitch\source\repos\Starwalle\Starwalle\obj\Debug\Starwalle.Form1.resources
+C:\Users\mitch\source\repos\Starwalle\Starwalle\obj\Debug\Starwalle.Properties.Resources.resources
+C:\Users\mitch\source\repos\Starwalle\Starwalle\obj\Debug\Starwalle.csproj.GenerateResource.Cache
+C:\Users\mitch\source\repos\Starwalle\Starwalle\obj\Debug\Starwalle.csproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\Starwalle\Starwalle\obj\Debug\Starwalle.exe
+C:\Users\mitch\source\repos\Starwalle\Starwalle\obj\Debug\Starwalle.pdb
